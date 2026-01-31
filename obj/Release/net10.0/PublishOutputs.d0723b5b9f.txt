@@ -1,0 +1,9 @@
+D:\Submit Code\Think_Bridge\display_an_invoice (2)\publish\display_an_invoice.exe
+D:\Submit Code\Think_Bridge\display_an_invoice (2)\publish\display_an_invoice.dll
+D:\Submit Code\Think_Bridge\display_an_invoice (2)\publish\display_an_invoice.deps.json
+D:\Submit Code\Think_Bridge\display_an_invoice (2)\publish\display_an_invoice.runtimeconfig.json
+D:\Submit Code\Think_Bridge\display_an_invoice (2)\publish\display_an_invoice.pdb
+D:\Submit Code\Think_Bridge\display_an_invoice (2)\publish\Microsoft.OpenApi.dll
+D:\Submit Code\Think_Bridge\display_an_invoice (2)\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\Submit Code\Think_Bridge\display_an_invoice (2)\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Submit Code\Think_Bridge\display_an_invoice (2)\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
